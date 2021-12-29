@@ -15,3 +15,8 @@ npx hardhat help
 ```
 
 ABI => Application Binary Interface
+
+
+
+# Creating first simple dapp 
+This is made possible by watching some tutorials in youtube
